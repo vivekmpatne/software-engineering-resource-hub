@@ -39,13 +39,15 @@ Whether you're a beginner starting your journey or preparing for internships and
 # 📌 Repository Structure
 
 ```text
-.
-├── README.md              # Repository Overview
-├── roadmap.md             # Main Learning Resource Hub
-├── FullStack.md           # Full Stack Roadmap
-├── Frontend.md            # Frontend Roadmap
-├── Devops.md              # DevOps Roadmap
-└── LICENSE
+.software-engineering-resource-hub/
+├── README.md                          ← landing page
+├── roadmap.md                         ← all resources
+└── .github/
+    ├── CONTRIBUTING.md                ← how to contribute
+    ├── PULL_REQUEST_TEMPLATE.md       ← PR template
+    └── ISSUE_TEMPLATE/
+        ├── resource_suggestion.md     ← suggest resource
+        └── broken_link.md             ← report broken link
 ```
 
 ---
@@ -170,7 +172,7 @@ This repository will continue to evolve with better resources and improvements.
 
 GitHub: https://github.com/vivekmpatne
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/vivekpatnem/ 
 
 ---
 
